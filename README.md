@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about jahongir.sobirov.2007@mail.ru
 -->
 
-- name: Profile Readme Stats
-  uses: jahongir2007
