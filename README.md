@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi my name is Jahongir Sobirov. I am full stack programmer. I am currently reading and working on HTML, CSS, JS, Python, PHP, JQuery, Node.js, Vue.js and Bootstrap
+Hi my name is Jahongir Sobirov. I am full stack programmer. I am currently learning and working on HTML, CSS, JS, Python, PHP, JQuery, Node.js, Vue.js and Bootstrap
 <!--
 **Jahongir2007/jahongir2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
